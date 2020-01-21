@@ -1,2 +1,9 @@
 # ECE351_Code
-Code for signals and systems labs
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Taylor Stewart
+% ECE 351-51
+% stew5398@vandals.uidaho.edu
+% Repository used for development of ECE 351    
+%                                                   
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
